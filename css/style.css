@@ -1,0 +1,36 @@
+.cabecalho{
+    display: flex;
+    position: absolute;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    flex-direction: row;
+    height: 50px;
+    align-content: center;
+}
+
+.cabecalho div{
+    padding: 50px;
+    align-self: center;
+}
+
+.logo{
+    height: 200px;
+}
+
+.painel-1{
+    display: flex;
+    position: absolute;
+    margin-top: 800px;
+}
+
+.contato{
+    display: flex;
+    position: absolute;
+    margin-top: 800px;
+}
+
+.redessociais{
+    display: flex;
+    position: absolute;
+    margin-top: 800px;
+}
