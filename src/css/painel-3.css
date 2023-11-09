@@ -1,0 +1,16 @@
+.painel-2{
+    display: flex;
+    position: absolute;
+    top: 800px;
+    width: 100%;
+    justify-items: center;
+}
+
+.quadro {
+    display: flex;
+    width: 100%;
+    padding: auto;
+    flex-direction: row;
+    top: 1200px;
+    justify-content: center;
+}
